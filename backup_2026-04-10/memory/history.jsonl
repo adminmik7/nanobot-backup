@@ -1,0 +1,2 @@
+{"cursor": 1, "timestamp": "2026-04-10 17:31", "content": "Error: The number of tokens to keep from the initial prompt is greater than the context length (n_keep: 41858>= n_ctx: 15104). Try to load the model with a larger context length, or provide a shorter input."}
+{"cursor": 2, "timestamp": "2026-04-10 20:02", "content": "Error: Context size has been exceeded."}
